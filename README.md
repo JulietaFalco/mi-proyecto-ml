@@ -1,4 +1,4 @@
-# Wheat Yield Forecasting — Capstone Project
+# Wheat Yield Prediction — Capstone Project
 
 This repository contains the R scripts and datasets used to predict wheat yield across Western Australia SA2 regions, using weather and economic variables.
 
@@ -12,7 +12,7 @@ The analysis follows five sequential steps, organised across two folders:
 | File | Description |
 |------|-------------|
 | `kmeans_sa2_clustering.R` | Clusters the 18 SA2 weather stations into Northern and Southern regions using K-means (k=2, selected via Silhouette Score) |
-| `Dataset_wheat_yield_kmeans.xlsx` | Input dataset with 96 weather and 2 geographical features per station, standardised via z-scores |
+| `Dataset_wheat_yield_kmeans.xlsx` | Input dataset with 96 weather, 2 economic and 2 geographical features per station, standardised via z-scores |
 
 ### 📁 2_Model_selection
 | File | Description |
