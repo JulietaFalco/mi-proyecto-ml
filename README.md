@@ -1,4 +1,5 @@
-# Wheat Yield Prediction — Capstone Project
+# Wheat Yield Prediction — Capstone Project DATA6000
+# Julieta Falco - 1849967 - JUN 2026
 
 This repository contains the R scripts and datasets used to predict wheat yield across Western Australia SA2 regions, using weather and economic variables.
 
